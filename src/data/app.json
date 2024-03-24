@@ -1,0 +1,144 @@
+{
+    "settings": {
+        "siteName": "DH Solutions - Custom Software Development Company ",
+        "preloader": true,
+        "formspreeURL": "https://formspree.io/f/xzbngokz",
+        "portfolio": {
+            "categories": [
+                {
+                    "label": "Website",
+                    "slug": "Website"
+                },
+                {
+                    "label": "App",
+                    "slug": "app"
+                },
+                {
+                    "label": "AI/ML",
+                    "slug": "ai/ml"
+                },
+                {
+                    "label": "Cyber Security",
+                    "slug": "cyber"
+                },
+                {
+                    "label": "Marketing",
+                    "slug": "marketing"
+                }
+            ]
+        }
+    },
+    "header": {
+        "logo": {
+            "image": "/images/logo-main.svg",
+            "image_white": "/images/logo-main.svg",
+            "alt": "logo"
+            
+        },
+        "menu": [
+            {
+                "label": "Home",
+                "link": "/",
+                "children": [0]
+            },
+
+            {
+                "label": "About",
+                "link": "/about",
+                "children": [0]
+            },
+            {
+                "label": "Team",
+                "link": "/team",
+                "children": [0]
+            },
+
+          {
+                "label": "Services",
+                "link": "/services",
+                "children": [0]
+            },
+    
+            {
+                "label": "Projects",
+                "link": "/projects",
+                "children": [0]
+               
+            },
+            {
+                "label": "Blog",
+                "link": "/blog",
+                "children": [0]
+            },
+            {
+                "label": "Contact",
+                "link": "/contact",
+                "children": 0
+            }
+        ],
+        "button": {
+            "label": "Showcase",
+            "link": "/projects"
+        },
+        "button2": {
+            "label": "Start a Project",
+            "link": "/contact"
+        }
+    },
+    "footer": {
+        "logo": {
+            "image": "/images/footer-logo-dh.svg",
+            "alt": "logo"
+        },
+        "gallery": [
+            {
+                "image": "/images/clutch.png",
+                "title": "clutch",
+                "alt": "image"
+            },
+            {
+                "image": "/images/tech.jpg",
+                "title": "tech",
+                "alt": "image"
+            },
+            {
+                "image": "/images/iso.png",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/llc.png",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/secp.png",
+                "title": "image",
+                "alt": "image"
+            },
+            {
+                "image": "/images/pseb.png",
+                "title": "image",
+                "alt": "image"
+            }
+        ],
+        "copy": "© 2024 DH Solutions <a href='https://dhsol.net' target='blank' class='onovo-lnk lnk--white'>DH Web team</a>. All rights reserved."
+    },
+    "social": [
+        {
+            "link": "https://www.facebook.com/dhsolutions.official",
+            "icon": "fab fa-facebook",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://www.instagram.com/dhsolutions.official/",
+            "icon": "fab fa-instagram",
+            "title": "Instagram"
+        },
+        {
+            "link": "https://www.linkedin.com/company/dhsolutionsofficial",
+            "icon": "fab fa-linkedin",
+            "title": "Linkedin"
+        }
+    ]
+}

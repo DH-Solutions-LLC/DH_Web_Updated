@@ -1,0 +1,29 @@
+{
+    "subtitle": "Our Collaborations",
+    "items": [
+        {
+            "image": "/images/partners/microsoft.png",
+            "alt": "award",
+            "label": "Microsoft Startup ",
+            "value": "01"
+        },
+        {
+            "image": "/images/partners/google.png",
+            "alt": "award",
+            "label": "Google Reseller Partners",
+            "value": "02"
+        },
+        {
+            "image": "/images/partners/amazon-web.png",
+            "alt": "award",
+            "label": "Amazon Web Partners",
+            "value": "03"
+        },
+        {
+            "image": "/images/partners/amazon-consulting.jpg",
+            "alt": "award",
+            "label": "Amazon Consulting Partners",
+            "value": "04"
+        }
+    ]
+}
